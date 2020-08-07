@@ -1,0 +1,458 @@
+body{
+  font-family: "Montserrat";
+}
+
+h1, h3, h5 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-family: "Montserrat";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #F39129;
+  font-weight: bold;
+}
+
+h6 {
+  font-family: "Montserrat";
+  font-size: 1rem;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#title{
+  background-color: #F39129;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+
+/* Navigation Bar */
+
+.logo-png {
+  width: 40%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #62DE8F;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image{
+  width: 115%;
+  top: 20%;
+  transform: rotate(-35deg);
+  position: absolute;
+}
+
+/* Supporting System images */
+
+
+.paresh {
+  width: 15%;
+}
+
+.asrani {
+  width: 25%;
+}
+
+.govinda {
+  width: 18%;
+}
+
+.dhondu {
+  width: 16%;
+}
+
+.nawaz {
+  width: 15%;
+}
+
+/* .manoj {
+  width: 22%;
+}
+
+.johnny {
+  width: 12%;
+}
+
+.nana {
+  width: 20%;
+} */
+
+
+
+/* Falooda Images */
+
+.srk {
+  width: 22%;
+}
+
+.bigb {
+  width: 18%;
+}
+
+.salman {
+  width: 15%;
+}
+
+.akshay {
+  width: 15%;
+}
+
+.aamir {
+  width: 22%;
+}
+
+/* Mocktails Images */
+
+.mogambo {
+width:35%;
+}
+
+.gabbar{
+width: 20%;
+}
+
+.gogo {
+width: 28%;
+}
+
+.joker {
+width: 20%;
+}
+
+.thanos {
+width: 32%;
+}
+
+/* Shakes section */
+
+.tom{
+  width: 22%
+}
+
+.charlie{
+  width: 15%
+}
+
+.singham {
+  width: 18%;
+}
+
+.potter{
+  width: 22%
+}
+
+.bean{
+  width: 20%
+}
+
+/* Features Sections */
+
+#features {
+  padding: 7% 15%;
+  background:#fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #F39129;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #62DE8F;
+}
+
+/* testimonial Sections */
+#testimonials {
+  text-align: center;
+  background-color: #F39129;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 50%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 3% 15%;
+}
+
+#press {
+  padding-bottom:3%%;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.card-header {
+  background-color: #F39129;
+  color: #fff;
+}
+
+.card-header:hover {
+  color: #62DE8F;
+}
+
+.card {
+background-color: #fff;
+}
+
+.card:hover {
+  color: #62DE8F;
+}
+
+
+
+/* Burger Images */
+.supandi {
+  width: 10%;
+}
+
+.chacha {
+  width: 16%;
+}
+
+.shikari {
+  width: 19%;
+}
+
+.tantri {
+  width: 18%;
+}
+
+.common {
+  width: 19%;
+}
+
+/* Pizza Images */
+
+.joey {
+  width: 16%;
+}
+
+.undertaker {
+  width: 25%;
+}
+
+.breakingbad {
+  width: 12%;
+}
+
+.got {
+  width: 18%;
+}
+
+.moneyheist {
+  width: 17%;
+}
+
+/* Pasta Images */
+
+.bugs {
+  width: 18%;
+}
+
+
+
+.raju {
+  width: 18%;
+}
+
+.popeye {
+  width: 18%;
+}
+
+.tweety {
+  width: 15%;
+}
+
+/* Sandwich Images */
+
+.super {
+  width: 28%;
+}
+
+.batman {
+  width: 16%;
+}
+
+.spiderman {
+  width: 28%;
+}
+
+.hulk {
+  width: 40%;
+}
+
+.ironman {
+  width: 20%;
+}
+
+/* Noodle Images */
+
+.bruce {
+  width: 18%;
+}
+
+.kid
+  {
+    width: 18%;
+  }
+
+.kung
+    {
+      width: 16%;
+    }
+
+.jackie
+    {
+      width: 20%;
+      }
+
+.shaolin {
+  width: 25%;
+}
+
+/* Dessert images */
+
+.sachin {
+  width: 30%;
+}
+
+.dhoni {
+  width:30%;
+}
+
+.kapil {
+  width: 25%;
+}
+
+.virat {
+  width: 26%;
+}
+
+.dravid {
+  width: 24%;
+}
+
+.yuraj {
+  width: 25%;
+}
+
+/* CTA Section */
+
+#cta {
+  background-color: #F39129;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+}
+
+.order-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Footer Section */
+
+#footer {
+  padding: 5% 5% 1%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px 100px;
+}
+
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(-35deg);
+  }
+}
