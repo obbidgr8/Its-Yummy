@@ -83,8 +83,9 @@ h6 {
 /* Title Image */
 
 .title-image{
-  width: 95%;
-  top: 20%;
+  width: 102%;
+  top: 35%;
+  left: 15%;
   transform: rotate(-35deg);
   position: absolute;
 }
